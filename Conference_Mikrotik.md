@@ -32,4 +32,16 @@ Mikrotik RouterOS :
 			require write access to a precise folder
 			use script magic_usb.sh (use of dd) to create usb flash or storage device with write access
 			Exploit then jailbreak with storage mounted on device
-			
+			once jailbreaked, shell is available 
+
+	Which versions are in use
+		Major version 6 in majority
+		vulnerables devices still greatly in use (used by russians actually to eavesdrop on network traffic or inject coin miner on computers)
+	
+	Hardening
+		starting to harden devices to prevent exploitation
+		Still not enough
+
+	github.com/Oki/mikrotik-tools
+	http://kirils.org
+	
