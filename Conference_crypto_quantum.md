@@ -97,3 +97,5 @@ Menaces
 
 	Cryptos résistantes :
 		NTRU : algo de chiffrement + signature. Résiste actuellement aux attaques, pas nécessairement ad vitam eternam.
+
+	Les courbes elliptiques sont actuellement plus fortes que RSA actuellement, mais en monde quantique, elles seront moins fortes. Il n'est donc pas nécessaire de les utiliser.
