@@ -37,7 +37,8 @@ Mikrotik RouterOS :
 	Which versions are in use
 		Major version 6 in majority
 		vulnerables devices still greatly in use (used by russians actually to eavesdrop on network traffic or inject coin miner on computers)
-	
+		vulnerable versions on shodan	
+
 	Hardening
 		starting to harden devices to prevent exploitation
 		Still not enough
