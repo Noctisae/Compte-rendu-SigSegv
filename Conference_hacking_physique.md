@@ -43,4 +43,6 @@ Conference Hacking physique Banque
 			utilisation de clés de niveau inférieur pour remonter à des clés de niveau supérieur (utilisation de cire pour moduler les clés)
 			Duplication de clés via moulage (depuis passe général)
 			Barrières infrarouges (faiblesses : sauter par dessus à partir d'un mur)
-			
+
+
+	
