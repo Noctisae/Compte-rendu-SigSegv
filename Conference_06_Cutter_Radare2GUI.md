@@ -18,6 +18,6 @@ par xarkes_ (twitter, github)
 	Présentation des fonctionnalités de l'IHM
 		Configuration des options de la CLI via conf Cutter
 		Personnalisation possible
+		Possibilité d'éditer les fonctions et de redéfinir les instructions (par exemple si une fonction n'est pas utilisée, on peut la debinder en mettant l'instruction à NOP)
+		Possibilité d'afficher les classes dans un binaire C++
 		Amélioration fréquente sur branche master
-
-	
