@@ -1,5 +1,7 @@
 # Conférence Analyse TinyNuke
 
+Speaker : Nha-Khanh Nguyen
+
 Setup du Lab de Malware
 	Host: Debian
 	VM : Windows, bridgé et infecté

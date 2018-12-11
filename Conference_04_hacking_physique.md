@@ -1,10 +1,16 @@
-# Compte-rendu-SigSegv
+# Conference Hacking physique d'une Banque
 
-Conference Hacking physique Banque
+Speaker : Alexandre Triffaut alias MrJack
 
 	Tactiques utilisées
 		Intrusion physique
         	SE
+
+3 phases : 
+1. Recherche/Reconnaissance : le plus important
+2. Prototypage d'outils et tests
+3. Intrusion (Escalade, Crochetage, SE, ...) 
+
 
 	Banque
 		Scenario opportuniste : 

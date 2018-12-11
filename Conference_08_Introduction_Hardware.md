@@ -19,6 +19,12 @@ Pourquoi l'analyse de malware et de matériel ?
 	Diversité des buts (DDoS, minage de monnaie, vol d'infos, rançon, etc...)
 	Intérêt pour blue/red : récupération d'infos pour contrer, pour utiliser (découverte notamment de faiblesses de chiffrement sur les SSD), etc....
 
+Exemples de malwares IoT:
+	Mirai/Hajime
+	Reaper
+	Satori(cryptomining -> pas vraiment efficace sur de l'IoT)
+	VPN Filter 
+
 A quoi on peut s'attendre:
 	Beaucoup de docs (manuels, docs d'archi, etc...)
 	Etudes / attaques / PoC déja fait
@@ -28,7 +34,9 @@ A quoi on peut s'attendre:
 
 Process basique
 	Inspection externe
+	Inspection interne
 	Identification des interfaces de com
+	Connection aux interfaces de com
 	Interactions avec le matériel
 
 Regarder plusieurs choses:
